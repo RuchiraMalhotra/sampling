@@ -67,7 +67,7 @@ Draw a random sample from each stratum using the HR database. If there are less 
 
 Your 5-10 question survey:
 ```Instructions to respondents - The survey has 10 questions and will take 5 -6 minutes. The aim is to improve the overall workplace culture and improve internal processes. Your responses are anonymous and no personal questions will be asked. If you are no longer associated with the company, please answer based on your last job title as on your date of resignation.
-The scale of 1 to 5 represents the foolowing -1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" 
+The scale of 1 to 5 represents the following -1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" 
 
 1. Employment status(single choice): 
 I am currently employed in an entry or lower level position at this company.
