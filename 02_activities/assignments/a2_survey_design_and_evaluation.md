@@ -91,27 +91,9 @@ Dropdown options- Compensation, Work life balance,Career progression,manager.
 Identify and describe survey features:
 
 ```
-Survey Purpose: The survey is designed to identify the key drivers of high turnover among entry- and lower-level employees and to gather actionable suggestions for improving talent retention, employee satisfaction, and internal processes such as compensation, workload, and career progression. Clearly stating the purpose helps respondents understand why their input is important, which can increase engagement and the quality of responses.
 
-Target Population: The survey targets all current and recently departed (within the last 6 months) entry- and lower-level employees across all departments. This ensures that the data collected reflects the experiences and perspectives of those most affected by turnover, providing insights that are relevant and actionable.
 
-Sampling Frame: The sampling frame includes HR records of current employees and exit lists for recent departures. The data contains details such as employee ID, job title, department, manager, hire date, and pay. A well-defined sampling frame allows for a reliable and representative selection of participants, ensuring inclusivity of all relevant employees.
 
-Sampling Units and Observational Units: Each individual employee in the sampling frame serves as a sampling unit, while each completed survey response represents an observational unit. Defining these units clearly supports accurate data collection and enables meaningful analysis at the individual level.
-
-Sampling Strategy: The survey uses stratified random sampling, with strata defined by department, employment status (current vs. departed), and job level (entry vs. lower-level). For strata with fewer than five individuals, all members are invited to participate. This strategy ensures balanced representation across key subgroups, reduces bias, and improves the reliability of results.
-
-Survey Type: The survey is structured as a quantitative instrument using a 1–5 Likert scale for most questions, along with categorical questions for employment status, department, and reason for leaving. Standardized response options allow for consistent data collection and simplify the analysis of patterns and trends.
-
-Survey Length and Time: The survey contains 10 questions and takes approximately 5–6 minutes to complete. Its brevity minimizes respondent fatigue, reduces the risk of survey abandonment, and increases completion rates.
-
-Anonymity and Confidentiality: Responses are anonymous, and no personal identifiers are collected. Ensuring confidentiality encourages honest responses and reduces social desirability bias, improving the accuracy of the data.
-
-Incentives: Tiered gift card incentives are offered to respondents based on the speed of response, with higher-value rewards for early submissions (within 1, 2, or 3 weeks). This encourages timely participation and boosts the overall response rate.
-
-Question Design: The survey includes a mix of categorical and Likert-scale questions that assess factors such as work-life balance, managerial support, workload, individual development, recognition, and compensation. This combination allows for both quantitative measurement and categorical analysis, providing a comprehensive view of factors contributing to turnover.
-
-Instructions to Respondents: Clear instructions explain the survey’s purpose, estimated completion time, anonymity, and guidance for employees who have departed. Providing explicit instructions reduces confusion, ensures consistent understanding across respondents, and enhances the quality of the data collected.
 ```
 
 ## Rubric
