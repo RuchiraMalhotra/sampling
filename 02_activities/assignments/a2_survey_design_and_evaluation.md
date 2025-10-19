@@ -115,7 +115,7 @@ Identify and describe survey features:
 
 12. Limitations, Known Biases, etc.: Some populations may be underrepresented (e.g., institutionalized individuals, transient populations); self-reported data may be subject to recall bias or social desirability bias.
 
-13. Link to documentation and any additional sources used - https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm
+13. Link to documentation and any additional sources used - https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm, chatgpt
 
 
 ```
