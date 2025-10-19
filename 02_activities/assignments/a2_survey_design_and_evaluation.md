@@ -41,29 +41,49 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 ## Part A - Survey Design: 
 
 The number of your chosen topic: `#`
+# 1
 
 Describe the purpose of your survey:
 ```
 write your answer here...
+"My survey aims to identify the key drivers of recent high turnover among among entry- and lower-level employees, and to gather actionable suggestions for improving talent retention and employee satisfaction. The results will inform targeted changes in  compensation, workload, career progression, and internal processes."
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
+My target population are all current and recently departed (within the last 6 months) entry- and lower-level employees across departments at the company, who were in the position anytime in the 6 months prior to the survey launch.
+
+My sampling frame includes details containing employee records for (a) current entry- and lower-level employees and (b) exit interview/contact lists for employees who left in the past 6 months,from the HR database.This will include their employee ID, name, job title, job level, department, manager,hire date,base pay and last working date(if applicable).
+
+Each individual employee will be one sampling unit.
+
+Each completed survey response corresponds to one observational unit.
+
+Overall sampling strategy will be using stratified random sampling with strata defined by a. department, b. employment status (current vs. departed) and c. level (entry vs. lower-level). 
+Draw a random sample from each stratum using the HR database. If there are less than 5 on a particular strata, then invite the full stratum. Ensure anonymity, provide an incentive of gift cards(higher value for those who respond early) based on response time of within 1 week, 2 weeks or 3 weeks, to boost response rate. 
+
 ```
 
 Your 5-10 question survey:
-```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+```Instructions to respondents - The survey has 10 questions and will take 5 -6 minutes. The aim is to improve the overall workplace culture and improve internal processes. Your responses are anonymous and no personal questions will be asked. If you are no longer associated with the company, please answer based on your last job title as on your date of resignation.
+The scale of 1 to 5 represents the foolowing -1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" 
+
+1. Employment status(single choice): 
+I am currently employed in an entry or lower level position at this company.
+I am Not currently employed in an entry or lower level position at this company.
+
+2. Department(choose one department from the dropdown)
+Dropdown options are HR, Sales, Branding, Finance, Cybersecurity, Technology.
+3. I enjoy/enjoyed a Work life balance(Choose from a scale of 1 to 5,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" )
+4. My manager provides/provided regular feedback on my performance(Choose from a scale of 1 to 5,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" )
+5. My manager is/was supportive of me taking leave from work (Choose from a scale of 1 to 5 ,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree")
+6. I understand/understood how to action my Individual Development plan (Choose from a scale of 1 to 5 ,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree")
+7. I am/was able to manage my workload (Choose from a scale of 1 to 5,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" )
+8. I am/was acknowledged for my contributions at work (Choose from a scale of 1 to 5 ,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree")
+9. My compensation is/was aligned with the market standards for the role(Choose from a scale of 1 to 5,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" )
+10. What is/was the primary reason to leave (choose 1 from the dropdown)
+Dropdown options- Compensation, Work life balance,Career progression,manager.
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +91,27 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+Survey Purpose: The survey is designed to identify the key drivers of high turnover among entry- and lower-level employees and to gather actionable suggestions for improving talent retention, employee satisfaction, and internal processes such as compensation, workload, and career progression. Clearly stating the purpose helps respondents understand why their input is important, which can increase engagement and the quality of responses.
+
+Target Population: The survey targets all current and recently departed (within the last 6 months) entry- and lower-level employees across all departments. This ensures that the data collected reflects the experiences and perspectives of those most affected by turnover, providing insights that are relevant and actionable.
+
+Sampling Frame: The sampling frame includes HR records of current employees and exit lists for recent departures. The data contains details such as employee ID, job title, department, manager, hire date, and pay. A well-defined sampling frame allows for a reliable and representative selection of participants, ensuring inclusivity of all relevant employees.
+
+Sampling Units and Observational Units: Each individual employee in the sampling frame serves as a sampling unit, while each completed survey response represents an observational unit. Defining these units clearly supports accurate data collection and enables meaningful analysis at the individual level.
+
+Sampling Strategy: The survey uses stratified random sampling, with strata defined by department, employment status (current vs. departed), and job level (entry vs. lower-level). For strata with fewer than five individuals, all members are invited to participate. This strategy ensures balanced representation across key subgroups, reduces bias, and improves the reliability of results.
+
+Survey Type: The survey is structured as a quantitative instrument using a 1–5 Likert scale for most questions, along with categorical questions for employment status, department, and reason for leaving. Standardized response options allow for consistent data collection and simplify the analysis of patterns and trends.
+
+Survey Length and Time: The survey contains 10 questions and takes approximately 5–6 minutes to complete. Its brevity minimizes respondent fatigue, reduces the risk of survey abandonment, and increases completion rates.
+
+Anonymity and Confidentiality: Responses are anonymous, and no personal identifiers are collected. Ensuring confidentiality encourages honest responses and reduces social desirability bias, improving the accuracy of the data.
+
+Incentives: Tiered gift card incentives are offered to respondents based on the speed of response, with higher-value rewards for early submissions (within 1, 2, or 3 weeks). This encourages timely participation and boosts the overall response rate.
+
+Question Design: The survey includes a mix of categorical and Likert-scale questions that assess factors such as work-life balance, managerial support, workload, individual development, recognition, and compensation. This combination allows for both quantitative measurement and categorical analysis, providing a comprehensive view of factors contributing to turnover.
+
+Instructions to Respondents: Clear instructions explain the survey’s purpose, estimated completion time, anonymity, and guidance for employees who have departed. Providing explicit instructions reduces confusion, ensures consistent understanding across respondents, and enhances the quality of the data collected.
 ```
 
 ## Rubric
