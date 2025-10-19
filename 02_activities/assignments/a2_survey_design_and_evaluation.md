@@ -91,7 +91,31 @@ Dropdown options- Compensation, Work life balance,Career progression,manager.
 Identify and describe survey features:
 
 ```
+1. Sample Type: Stratified random sampling is used, often based on socio-demographic characteristics such as age, gender, region, and household type to ensure representativeness across Canada.
 
+2. Sample Size: Sample sizes vary by survey cycle and topic; typical GSS cycles include several thousand respondents to ensure statistical reliability at the national level.
+
+3. Target Population: All non-institutionalized Canadians aged 15 and older living in private households, covering all provinces and territories.
+
+4. Sampling Frame: Derived from administrative and census-based data sources to cover private households; updated periodically to include current residents.
+
+5. Survey Mode(s): Data is collected through multiple modes including telephone interviews, online questionnaires, and, in some cycles, in-person interviews.
+
+6. Timeline: Each cycle focuses on specific themes; data collection usually spans several months to capture a representative sample and ensure quality.
+
+7. Response Rate: Varies by cycle and mode; Statistics Canada applies follow-ups and weighting to adjust for nonresponse.
+
+8. Weights: Survey weights are applied to correct for unequal selection probabilities, nonresponse, and to ensure representativeness of the Canadian population.
+
+9. Data Processing: Includes coding, validation, and integration of responses from multiple modes; microdata files are standardized for analysis.
+
+10. Cleaning, Imputation, etc.: Missing values and inconsistencies are addressed via data cleaning; imputation methods are used for nonresponse or incomplete data.
+
+11. Sources of Error: Include sampling error, measurement error, nonresponse bias, and coverage error due to underrepresentation of certain population groups.
+
+12. Limitations, Known Biases, etc.: Some populations may be underrepresented (e.g., institutionalized individuals, transient populations); self-reported data may be subject to recall bias or social desirability bias.
+
+13. Link to documentation and any additional sources used - https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm
 
 
 ```
