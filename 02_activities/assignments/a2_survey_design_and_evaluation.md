@@ -41,29 +41,49 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 ## Part A - Survey Design: 
 
 The number of your chosen topic: `#`
+# 1
 
 Describe the purpose of your survey:
 ```
 write your answer here...
+"My survey aims to identify the key drivers of recent high turnover among among entry- and lower-level employees, and to gather actionable suggestions for improving talent retention and employee satisfaction. The results will inform targeted changes in  compensation, workload, career progression, and internal processes."
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
+My target population are all current and recently departed (within the last 6 months) entry- and lower-level employees across departments at the company, who were in the position anytime in the 6 months prior to the survey launch.
+
+My sampling frame includes details containing employee records for (a) current entry- and lower-level employees and (b) exit interview/contact lists for employees who left in the past 6 months,from the HR database.This will include their employee ID, name, job title, job level, department, manager,hire date,base pay and last working date(if applicable).
+
+Each individual employee will be one sampling unit.
+
+Each completed survey response corresponds to one observational unit.
+
+Overall sampling strategy will be using stratified random sampling with strata defined by a. department, b. employment status (current vs. departed) and c. level (entry vs. lower-level). 
+Draw a random sample from each stratum using the HR database. If there are less than 5 on a particular strata, then invite the full stratum. Ensure anonymity, provide an incentive of gift cards(higher value for those who respond early) based on response time of within 1 week, 2 weeks or 3 weeks, to boost response rate. 
+
 ```
 
 Your 5-10 question survey:
-```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+```Instructions to respondents - The survey has 10 questions and will take 5 -6 minutes. The aim is to improve the overall workplace culture and improve internal processes. Your responses are anonymous and no personal questions will be asked. If you are no longer associated with the company, please answer based on your last job title as on your date of resignation.
+The scale of 1 to 5 represents the following -1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" 
+
+1. Employment status(single choice): 
+I am currently employed in an entry or lower level position at this company.
+I am Not currently employed in an entry or lower level position at this company.
+
+2. Department(choose one department from the dropdown)
+Dropdown options are HR, Sales, Branding, Finance, Cybersecurity, Technology.
+3. I enjoy/enjoyed a Work life balance(Choose from a scale of 1 to 5,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" )
+4. My manager provides/provided regular feedback on my performance(Choose from a scale of 1 to 5,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" )
+5. My manager is/was supportive of me taking leave from work (Choose from a scale of 1 to 5 ,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree")
+6. I understand/understood how to action my Individual Development plan (Choose from a scale of 1 to 5 ,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree")
+7. I am/was able to manage my workload (Choose from a scale of 1 to 5,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" )
+8. I am/was acknowledged for my contributions at work (Choose from a scale of 1 to 5 ,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree")
+9. My compensation is/was aligned with the market standards for the role(Choose from a scale of 1 to 5,1 being "Strongly disagree", 2 being "disagree", 3 being "neutral", 4 being "Agree" 5 being "Strongly agree" )
+10. What is/was the primary reason to leave (choose 1 from the dropdown)
+Dropdown options- Compensation, Work life balance,Career progression,manager.
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +91,33 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample Type: Stratified random sampling is used, often based on socio-demographic characteristics such as age, gender, region, and household type to ensure representativeness across Canada.
+
+2. Sample Size: Sample sizes vary by survey cycle and topic; typical GSS cycles include several thousand respondents to ensure statistical reliability at the national level.
+
+3. Target Population: All non-institutionalized Canadians aged 15 and older living in private households, covering all provinces and territories.
+
+4. Sampling Frame: Derived from administrative and census-based data sources to cover private households; updated periodically to include current residents.
+
+5. Survey Mode(s): Data is collected through multiple modes including telephone interviews, online questionnaires, and, in some cycles, in-person interviews.
+
+6. Timeline: Each cycle focuses on specific themes; data collection usually spans several months to capture a representative sample and ensure quality.
+
+7. Response Rate: Varies by cycle and mode; Statistics Canada applies follow-ups and weighting to adjust for nonresponse.
+
+8. Weights: Survey weights are applied to correct for unequal selection probabilities, nonresponse, and to ensure representativeness of the Canadian population.
+
+9. Data Processing: Includes coding, validation, and integration of responses from multiple modes; microdata files are standardized for analysis.
+
+10. Cleaning, Imputation, etc.: Missing values and inconsistencies are addressed via data cleaning; imputation methods are used for nonresponse or incomplete data.
+
+11. Sources of Error: Include sampling error, measurement error, nonresponse bias, and coverage error due to underrepresentation of certain population groups.
+
+12. Limitations, Known Biases, etc.: Some populations may be underrepresented (e.g., institutionalized individuals, transient populations); self-reported data may be subject to recall bias or social desirability bias.
+
+13. Link to documentation and any additional sources used - https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm, chatgpt
+
+
 ```
 
 ## Rubric
